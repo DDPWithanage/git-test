@@ -1,3 +1,3 @@
 Hello!!!
-welcome to git
-Welcome to github desktop
+welcome to git.
+Welcome to github desktop.
